@@ -20,7 +20,8 @@ To implement a classification algorithm to recognize handwritten digits (0‐ 9)
 Deployment of the trained model as a web app using flask.
 
 2.1 MNIST AND MATH SYMBOL DATASETS
-The MNIST dataset, a subset of a larger set NIST, is a database of 70,000 handwritten digits, divided into 60,000 training examples and 10,000 testing samples. The images in the MNIST dataset are present in form of an array consisting of 28x28 values representing an image along with their labels. Also, we have used dataset from math symbol containing 7000 samples each for ‘-’ and ‘+’, 3251 samples for ‘*’ and 868 samples for ‘/’. Merging of data resulted in 76307 samples for training and 11812 samples for testing dataset.
+  The MNIST dataset, a subset of a larger set NIST, is a database of 70,000 handwritten digits, divided into 60,000 training examples and 10,000 testing samples. The images in     the MNIST dataset are present in form of an array consisting of 28x28 values representing an image along with their labels. Also, we have used dataset from math symbol         
+  containing 7000 samples each for ‘-’ and ‘+’, 3251 samples for ‘*’ and 868 samples for ‘/’. Merging of data resulted in 76307 samples for training and 11812 samples for         testing dataset.
 
 3. LIBRARY USED
 •	Python 3 and above 
@@ -29,6 +30,7 @@ The MNIST dataset, a subset of a larger set NIST, is a database of 70,000 handwr
 •	Flask framework to deploy model
 
 4. CNN MODEL SUMMARY
+
 
 ![image](https://user-images.githubusercontent.com/70902291/123850360-90c21800-d937-11eb-98ec-3018e0309bda.png)
 
@@ -41,17 +43,24 @@ The MNIST dataset, a subset of a larger set NIST, is a database of 70,000 handwr
 
 
 5. RESULTS
-Training  and Validation Accuracy:
-![image](https://user-images.githubusercontent.com/70902291/123850473-b3543100-d937-11eb-95ef-f542893d6d0d.png)
+   Training  and Validation Accuracy:
+   
+   
+   
+   ![image](https://user-images.githubusercontent.com/70902291/123850473-b3543100-d937-11eb-95ef-f542893d6d0d.png)
 
  
-Testing Accuracy:
+   Testing Accuracy:
+   
 
-![image](https://user-images.githubusercontent.com/70902291/123850507-bc450280-d937-11eb-8999-c2bf8203bb42.png)
+   ![image](https://user-images.githubusercontent.com/70902291/123850507-bc450280-d937-11eb-8999-c2bf8203bb42.png)
 
 
-Model Deployment using Flask Demo:
-![image](https://user-images.githubusercontent.com/70902291/123850545-cb2bb500-d937-11eb-8ff9-80e3053b0469.png)
+   Model Deployment using Flask Demo:
+   
+   
+   
+  ![image](https://user-images.githubusercontent.com/70902291/123850545-cb2bb500-d937-11eb-8ff9-80e3053b0469.png)
 
 
 
