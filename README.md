@@ -22,7 +22,7 @@ The purpose of the proposed work is to achieve comparable accuracy using a pure 
 
 ## 1.2 Problem Defination
 
-## To implement a classification algorithm to recognize handwritten digits (0‐ 9). This project presents our implementation of the Neural networks to recognize the handwritten numerical digits.
+To implement a classification algorithm to recognize handwritten digits (0‐ 9). This project presents our implementation of the Neural networks to recognize the handwritten numerical digits.
 Deployment of the trained model as a web app using flask.
 
 
@@ -89,7 +89,7 @@ Deployment of the trained model as a web app using flask.
 •	https://towardsdatascience.com/a-laymans-guide-to-building-your-first-image-classification-model-in-r-using-keras-b285deac6572
 
 # How to run the App
-In the commnd terminal tyep
+In the commnd terminal type
 ```sh
 python app.py
 ```
