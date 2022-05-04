@@ -1,4 +1,4 @@
-## Mini-Project-2
+## Mini-Project-2 Captcha Recognition
 
 
 Captcha Recognition  using Deep learning and  Deployment using flask
